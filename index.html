@@ -255,9 +255,13 @@
             lastmodified();
       </script>
       </div>
-      <div>
-        <b>Location :</b>
-      
+       <div>
+      <script>
+        function getLocation() {
+          document.getElementById("demo").innerHTML =
+            "The full URL of this page is:<br>" + window.location.href;
+        }
+      </script>
       </div>
   </section>
 </body>

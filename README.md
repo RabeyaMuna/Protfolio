@@ -1,4 +1,4 @@
 # Rabeya-s_profile.github.io
-IT is a personal protfolip website.
+It is a simple protfolio website using html, css, bootstrap and JavaScript.
 The preview of the project:
 https://rabeyamuna.github.io/Rabeya-s_profile.github.io/
